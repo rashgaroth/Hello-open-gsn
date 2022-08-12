@@ -1,0 +1,11 @@
+(i) Capture address ==>  0x1830Ff584a9B716219b22C245D9d7897E7A4cd48
+
+(i) Paymaster address ==>  0x4BC5bfB1FBCCC3567BD6BbDb7D3C42F06740b098
+
+(i) Depositor address ==>  0xdcc6D6A147fc912bff73DB549827299B873b0FB7
+
+(i) Set relayhub done
+
+(i) Set forwarder done
+
+(i) Set whitelist done
